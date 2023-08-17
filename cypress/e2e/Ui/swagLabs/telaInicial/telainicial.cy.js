@@ -93,7 +93,7 @@ describe ('Teste tela inicial', () => {
     });
 
 
-    it('Cenário 6: Validação da funcionalidade select filter - Exibição de itens de Maior valor a Menor valor', () => {
+    it('Cenário 5: Validação da funcionalidade select filter - Exibição de itens de Maior valor a Menor valor', () => {
 
         cy.get('[data-test="product_sort_container"]').select('Price (high to low)')
 
