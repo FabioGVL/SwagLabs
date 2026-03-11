@@ -33,7 +33,7 @@ O projeto utiliza padrões de engenharia de QA para garantir que a interface e a
 * Implementação de `cy.login()` e outros comandos personalizados para otimização do setup de testes e redução drástica de duplicidade de código.
 
 
-## Tecnologias/ambientes utilizados para execução do projeto:
+## Tecnologias e ambientes utilizados para execução do projeto:
 - Cypress v10.11.0
 - Node JS v20.15.0
 - Google Chrome v126.0.6478.126
