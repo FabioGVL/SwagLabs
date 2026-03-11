@@ -1,6 +1,4 @@
-# PROJETO DE AUTOMAÇÃO: SWAG LABS (E-COMMERCE E2E)
-
-## 1. OBJETIVO DO DOCUMENTO
+# Escopo do Projeto
 Este documento detalha a estratégia de automação de testes End-to-End (E2E) para a plataforma **Swag Labs (SauceDemo)**. O objetivo principal é garantir a estabilidade do sistema de vendas, cobrindo desde a autenticação de diferentes perfis de usuários até a validação rigorosa de lógica de ordenação de produtos, gestão de carrinho e integridade de cálculos financeiros no checkout.
 
 ## 2. TECNOLOGIAS UTILIZADAS
