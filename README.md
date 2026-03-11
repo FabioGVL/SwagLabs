@@ -44,7 +44,7 @@ O projeto utiliza padrões de engenharia de QA para garantir que a interface e a
 
 ## Passos para reproduzir o teste
 
-### 1 Efetuando o download e descompactando o projeto
+### 1. Efetuando o download e descompactando o projeto
 - No GitHub, clique em "code".
 - Clique em "Download Zip" para fazer o download do arquivo deste teste.
 - No seu computador, localize o download efetuado.
