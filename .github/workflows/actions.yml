@@ -1,0 +1,20 @@
+name: End-to-End Tests
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # Instala as dependências do Cypress
+      # Executa os testes com Cypress
+      - name: Cypress run
+        uses: cypress-io/github-action@v5
