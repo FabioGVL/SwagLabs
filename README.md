@@ -1,4 +1,4 @@
-[![Cypress Tests](https://github.com/FabioGVL/SwagLabs-Cypress/actions/workflows/cypress.yml/badge.svg)](https://github.com/FabioGVL/SwagLabs-Cypress/actions/workflows/cypress.yml)
+[![Cypress Tests](https://github.com/FabioGVL/SwagLabs-Cypress/actions/workflows/SwagLabsAutomation.yml/badge.svg)](https://github.com/FabioGVL/SwagLabs-Cypress/actions/workflows/SwagLabsAutomation.yml)
 
 # Automação de Testes E2E - Swag Labs (SauceDemo)
 
